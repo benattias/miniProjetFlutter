@@ -1,0 +1,16 @@
+{
+  "etudiants": [
+    {
+      "id": 1,
+      "nom": "souad",
+      "prenom": "benattia",
+      "matricule": "xxxx"
+    },
+    {
+      "id": 2,
+      "nom": "islem",
+      "prenom": "benattia",
+      "matricule": "yyyy"
+    }
+  ]
+}
